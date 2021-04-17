@@ -1,0 +1,50 @@
+I, [2021-04-16T01:18:22.619462 #16154]  INFO -- : ==>> name : Breathe-Easy Tank <<==
+I, [2021-04-16T01:18:22.619552 #16154]  INFO -- : ==>> price : $34.00 <<==
+I, [2021-04-16T01:18:22.619577 #16154]  INFO -- : ==>> Description : The Breathe Easy Tank is so soft, lightweight, and comfortable, you won't even know it's there -- until its high-tech Cocona® fabric starts wicking sweat away from your body to help you stay dry and focused. Layer it over your favorite sports bra and get moving.• Machine wash/dry.• Cocona® fabric. <<==
+I, [2021-04-16T01:18:22.619595 #16154]  INFO -- : ==>> Extra_Information : Style:Tank |Material:Cocona®performancefabric,Cotton |Pattern:Solid |Climate:Indoor,Warm <<==
+I, [2021-04-16T01:18:22.956394 #16154]  INFO -- : ==>> name : Mimi All-Purpose Short <<==
+I, [2021-04-16T01:18:22.956495 #16154]  INFO -- : ==>> price : $44.00 <<==
+I, [2021-04-16T01:18:22.956530 #16154]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:18:22.956556 #16154]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:18:22.959136 #16154]  INFO -- : ==>> name : Gabrielle Micro Sleeve Top <<==
+I, [2021-04-16T01:18:22.959217 #16154]  INFO -- : ==>> price : $28.00 <<==
+I, [2021-04-16T01:18:22.959251 #16154]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:18:22.959277 #16154]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:18:22.961677 #16154]  INFO -- : ==>> name : Ana Running Short <<==
+I, [2021-04-16T01:18:22.961723 #16154]  INFO -- : ==>> price : $40.00 <<==
+I, [2021-04-16T01:18:22.961747 #16154]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:18:22.961767 #16154]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:18:22.963743 #16154]  INFO -- : ==>> name : Juliana Short-Sleeve Tee <<==
+I, [2021-04-16T01:18:22.963788 #16154]  INFO -- : ==>> price : $42.00 <<==
+I, [2021-04-16T01:18:22.963812 #16154]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:18:22.963831 #16154]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:19:57.476966 #16380]  INFO -- : ==>> name : Breathe-Easy Tank <<==
+I, [2021-04-16T01:19:57.477035 #16380]  INFO -- : ==>> price : $34.00 <<==
+I, [2021-04-16T01:19:57.477057 #16380]  INFO -- : ==>> Description : The Breathe Easy Tank is so soft, lightweight, and comfortable, you won't even know it's there -- until its high-tech Cocona® fabric starts wicking sweat away from your body to help you stay dry and focused. Layer it over your favorite sports bra and get moving.• Machine wash/dry.• Cocona® fabric. <<==
+I, [2021-04-16T01:19:57.477073 #16380]  INFO -- : ==>> Extra_Information : Style:Tank |Material:Cocona®performancefabric,Cotton |Pattern:Solid |Climate:Indoor,Warm <<==
+I, [2021-04-16T01:19:57.477087 #16380]  INFO -- : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I, [2021-04-16T01:19:57.824265 #16380]  INFO -- : ==>> name : Mimi All-Purpose Short <<==
+I, [2021-04-16T01:19:57.824423 #16380]  INFO -- : ==>> price : $44.00 <<==
+I, [2021-04-16T01:19:57.824505 #16380]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:19:57.824571 #16380]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:19:57.824625 #16380]  INFO -- : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I, [2021-04-16T01:19:57.830666 #16380]  INFO -- : ==>> name : Gabrielle Micro Sleeve Top <<==
+I, [2021-04-16T01:19:57.830783 #16380]  INFO -- : ==>> price : $28.00 <<==
+I, [2021-04-16T01:19:57.830832 #16380]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:19:57.830874 #16380]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:19:57.830919 #16380]  INFO -- : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I, [2021-04-16T01:19:57.834388 #16380]  INFO -- : ==>> name : Ana Running Short <<==
+I, [2021-04-16T01:19:57.834471 #16380]  INFO -- : ==>> price : $40.00 <<==
+I, [2021-04-16T01:19:57.834507 #16380]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:19:57.834538 #16380]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:19:57.834566 #16380]  INFO -- : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I, [2021-04-16T01:19:57.837716 #16380]  INFO -- : ==>> name : Juliana Short-Sleeve Tee <<==
+I, [2021-04-16T01:19:57.837790 #16380]  INFO -- : ==>> price : $42.00 <<==
+I, [2021-04-16T01:19:57.837820 #16380]  INFO -- : ==>> Description :  <<==
+I, [2021-04-16T01:19:57.837846 #16380]  INFO -- : ==>> Extra_Information :  <<==
+I, [2021-04-16T01:19:57.837869 #16380]  INFO -- : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I, [2021-04-16T01:22:09.329102 #16731]  INFO -- : ==>> name : Juliana Short-Sleeve Tee <<==
+I, [2021-04-16T01:22:09.329225 #16731]  INFO -- : ==>> price : $42.00 <<==
+I, [2021-04-16T01:22:09.329245 #16731]  INFO -- : ==>> Description : The Juliana Short-Sleeve Tee gives you more than sporty style. Consider that its soft Cocona® polyester fabric accelerates evaporation to help keep you dry and comfortable, too. And a selection of colors lets you get more than one.• Black scoop neck tee.• Side rouching.• Relaxed fit. <<==
+I, [2021-04-16T01:22:09.329260 #16731]  INFO -- : ==>> Extra_Information : Style:Tee |Material:Cocona®performancefabric,Polyester |Pattern:Solid |Climate:Indoor,Warm <<==
+I, [2021-04-16T01:22:09.329273 #16731]  INFO -- : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
